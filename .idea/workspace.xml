@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c6f496c-3589-4c45-b499-f38179fa2faa" name="Default" comment="" />
+    <list default="true" id="9c6f496c-3589-4c45-b499-f38179fa2faa" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ouyangxizhu/nio/NIOClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ouyangxizhu/nio/NIOServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ouyangxizhu/nio/BasicBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ouyangxizhu/nio/BasicBuffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ouyangxizhu/nio/BasicBuffer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ouyangxizhu/nio/BasicBuffer.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,58 +20,73 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="NettyPro" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ouyangxizhu/nio/BasicBuffer.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/nio/NIOClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+            <state relative-caret-position="382">
+              <caret line="19" column="65" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="65" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Java/JDK/src.zip!/java/nio/IntBuffer.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ouyangxizhu/nio/NIOClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="262" column="15" selection-start-line="262" selection-start-column="12" selection-end-line="262" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Java/JDK/src.zip!/java/nio/Buffer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="181" selection-start-line="181" selection-end-line="181" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/nio/BasicBuffer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
-              <caret line="31" column="25" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/dubborpc/netty/NettyClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+            <state relative-caret-position="405">
+              <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Java/JDK/src.zip!/java/nio/ByteBuffer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="372" column="31" selection-start-line="372" selection-start-column="31" selection-end-line="372" selection-end-column="31" />
+              <folding>
+                <element signature="e#12369#12370#0" expanded="true" />
+                <element signature="e#12420#12421#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ouyangxizhu/nio/NIOServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="31" column="59" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/nio/NIOServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="58" column="59" lean-forward="true" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Java/JDK/src.zip!/java/nio/channels/spi/AbstractSelectableChannel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="200" column="22" selection-start-line="200" selection-start-column="22" selection-end-line="200" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -116,8 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/codec/NettyServer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/codec/NettyServerHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/codec/NettyClientHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/codec2/Student.proto" />
         <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/codec2/MyDataInfo.java" />
@@ -167,6 +186,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/dubborpc/netty/NettyClientHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/dubborpc/netty/NettyClient.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ouyangxizhu/nio/BasicBuffer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ouyangxizhu/nio/NIOClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ouyangxizhu/nio/NIOServer.java" />
       </list>
     </option>
   </component>
@@ -206,13 +227,14 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -265,10 +287,20 @@
               <item name="atguigu" type="462c0819:PsiDirectoryNode" />
               <item name="nio" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="NettyPro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NettyPro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="nio" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -315,7 +347,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BasicBuffer">
+  <component name="RunManager" selected="Application.NIOServer">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -350,13 +382,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EchoClient (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.netty.source.echo2.EchoClient" />
+    <configuration name="NIOClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ouyangxizhu.nio.NIOClient" />
       <module name="NettyPro" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.netty.source.echo2.*" />
+          <option name="PATTERN" value="com.ouyangxizhu.nio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -364,13 +396,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EchoServer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.netty.source.echo2.EchoServer" />
+    <configuration name="NIOServer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.nio.NIOServer" />
       <module name="NettyPro" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.netty.source.echo2.*" />
+          <option name="PATTERN" value="com.atguigu.nio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -378,13 +410,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ServerBootstrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.netty.dubborpc.provider.ServerBootstrap" />
+    <configuration name="NIOServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ouyangxizhu.nio.NIOServer" />
       <module name="NettyPro" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.netty.dubborpc.provider.*" />
+          <option name="PATTERN" value="com.ouyangxizhu.nio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -424,19 +456,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.EchoServer (1)" />
-      <item itemvalue="Application.EchoClient (1)" />
-      <item itemvalue="Application.ServerBootstrap" />
       <item itemvalue="Application.ClientBootstrap" />
       <item itemvalue="Application.BasicBuffer" />
+      <item itemvalue="Application.NIOServer" />
+      <item itemvalue="Application.NIOClient" />
+      <item itemvalue="Application.NIOServer (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NIOClient" />
+        <item itemvalue="Application.NIOServer" />
+        <item itemvalue="Application.NIOServer (1)" />
         <item itemvalue="Application.BasicBuffer" />
         <item itemvalue="Application.ClientBootstrap" />
-        <item itemvalue="Application.ServerBootstrap" />
-        <item itemvalue="Application.EchoClient (1)" />
-        <item itemvalue="Application.EchoServer (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -512,12 +544,13 @@
       <workItem from="1572507962094" duration="2953000" />
       <workItem from="1572510401121" duration="1693000" />
       <workItem from="1572669726673" duration="606000" />
-      <workItem from="1595059251874" duration="985000" />
+      <workItem from="1595059251874" duration="4469000" />
+      <workItem from="1595123865710" duration="3733000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="195218000" />
+    <option name="totallyTimeSpent" value="202435000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -530,37 +563,38 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.74007934" visible="true" weight="0.25773746" />
-      <window_info id="Structure" order="1" sideWeight="0.76996195" weight="0.20917822" />
+      <window_info id="Structure" order="1" sideWeight="0.76996195" weight="0.2113127" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" sideWeight="0.26138613" side_tool="true" weight="0.16100323" />
       <window_info id="Image Layers" order="6" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.38424438" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3765363" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3762598" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.26688102" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.43673012" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.37513998" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.2122905" />
-      <window_info anchor="right" id="Maven" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.013754046" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.13287087" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Maven Projects" order="4" weight="0.32928804" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Maven" order="9" weight="0.19477054" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.74007934" weight="0.23220065" />
@@ -724,108 +758,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/channel/ChannelHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="190" column="9" selection-start-line="190" selection-start-column="9" selection-end-line="190" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/channel/AbstractChannel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="84" selection-start-line="84" selection-end-line="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/channel/ChannelDuplexHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/channel/ChannelHandlerContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="146" column="19" selection-start-line="146" selection-start-column="19" selection-end-line="146" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/channel/DefaultChannelHandlerContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/handler/logging/LoggingHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="241" selection-start-line="241" selection-end-line="241" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/source/echo/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="59" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/channel/ChannelOutboundHandlerAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/heartbeat/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/heartbeat/MyServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="49" column="70" selection-start-line="49" selection-start-column="70" selection-end-line="49" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/heartbeat/MyServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/handler/timeout/ReadTimeoutHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="62" column="24" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/handler/timeout/WriteTimeoutHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10">
-          <caret line="64" column="57" lean-forward="true" selection-start-line="64" selection-start-column="49" selection-end-line="64" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/handler/timeout/IdleStateHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="545" column="17" lean-forward="true" selection-start-line="545" selection-start-column="17" selection-end-line="545" selection-end-column="17" />
-          <folding>
-            <element signature="e#12680#12681#0" expanded="true" />
-            <element signature="e#12720#12721#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/program/jdk8.0/src.zip!/java/nio/channels/Selector.java" />
     <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/channel/SingleThreadEventLoop.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1036,30 +968,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/nio/BasicBuffer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ouyangxizhu/nio/BasicBuffer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="31" column="25" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="25" />
+        <state relative-caret-position="324">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/bio/BIOServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1593">
+          <caret line="63" column="35" selection-start-line="63" selection-start-column="35" selection-end-line="63" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Java/JDK/src.zip!/java/nio/IntBuffer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="262" column="15" selection-start-line="262" selection-start-column="12" selection-end-line="262" selection-end-column="18" />
+        <state relative-caret-position="8208">
+          <caret line="331" column="28" selection-start-line="331" selection-start-column="28" selection-end-line="331" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/JDK/src.zip!/java/nio/Buffer.java">
+    <entry file="jar://C:/Java/JDK/src.zip!/java/nio/HeapIntBuffer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="181" selection-start-line="181" selection-end-line="181" />
+        <state relative-caret-position="3591">
+          <caret line="168" column="23" selection-start-line="168" selection-start-column="14" selection-end-line="168" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/nio/BasicBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="31" column="25" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/dubborpc/netty/NettyClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
+        <state relative-caret-position="702">
           <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1067,10 +1013,108 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ouyangxizhu/nio/BasicBuffer.java">
+    <entry file="jar://C:/Java/JDK/src.zip!/java/nio/Buffer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+        <state relative-caret-position="384">
+          <caret line="195" column="6" selection-start-line="195" selection-start-column="6" selection-end-line="195" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/JDK/jre/lib/rt.jar!/sun/nio/ch/DefaultSelectorProvider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+          <folding>
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/JDK/jre/lib/rt.jar!/sun/nio/ch/SelectorProviderImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/JDK/src.zip!/java/nio/channels/spi/SelectorProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="240" column="40" selection-start-line="240" selection-start-column="40" selection-end-line="240" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/JDK/jre/lib/rt.jar!/sun/nio/ch/Net.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/JDK/jre/lib/rt.jar!/sun/nio/ch/ServerSocketChannelImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="132" column="31" selection-start-line="132" selection-start-column="31" selection-end-line="132" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/JDK/src.zip!/java/nio/channels/ServerSocketChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="190" column="33" lean-forward="true" selection-start-line="190" selection-start-column="33" selection-end-line="190" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/nio/NIOClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="19" column="65" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/JDK/src.zip!/java/nio/ByteBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="372" column="31" selection-start-line="372" selection-start-column="31" selection-end-line="372" selection-end-column="31" />
+          <folding>
+            <element signature="e#12369#12370#0" expanded="true" />
+            <element signature="e#12420#12421#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/JDK/src.zip!/java/nio/channels/spi/AbstractSelectableChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="200" column="22" selection-start-line="200" selection-start-column="22" selection-end-line="200" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ouyangxizhu/nio/NIOClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/nio/NIOServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="58" column="59" lean-forward="true" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ouyangxizhu/nio/NIOServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="31" column="59" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
